@@ -7,6 +7,9 @@
     <string name="casa">* Casa</string>
     <string name="arbol">* arbol</string>
     <string name="avion">* avion</string>
-    <string name="esto_es_una_imagen">Esto es una imagen</string>
+    <string name="esto_es_una_imagen">Esto es un boton</string>
     <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="click">Click</string>
+    <string name="boton">Boton</string>
 </resources>
