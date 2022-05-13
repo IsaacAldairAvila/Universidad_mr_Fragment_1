@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">MR_Fragment_1</string>
+    <string name="app_name">Fragment Estáticos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="esta_es_una_lista">Esta es una lista</string>
+    <string name="textview">TextView</string>
+    <string name="casa">* Casa</string>
+    <string name="arbol">* arbol</string>
+    <string name="avion">* avion</string>
+    <string name="esto_es_una_imagen">Esto es una imagen</string>
+    <string name="todo">TODO</string>
 </resources>
